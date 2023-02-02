@@ -2,7 +2,7 @@
 
 5 Empfehlungen, die ich gern vor Beginn dieser Lehrveranstaltung gewusst hätte:
 
-1. Überprüfen Sie regelmäßig das Begleitskriptum zu den Videos "Computer Science".
+1. Verfolgen Sie regelmäßig das Begleitskriptum zu den Videos "Computer Science" unter  Begleitmaterial für Eigenstudium.
 
 2. Für Interessierte empfehle ich das Buch "C Programming: A Modern Approach, 2nd Edition" von K. N. King als PDF, es ist die Grundlage dieser Lehrveranstaltung.
 
