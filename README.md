@@ -13,27 +13,51 @@
 5. Holen Sie sich Nachhilfe, falls Sie bei den fortgeschrittenen Themen Schwierigkeiten haben, da die Schwierigkeit rasant ansteigt.
 
 UE01 Gesicht
+
 UE02 Cube
+
 UE03 Tax
+
 UE04 Oktal
+
 UE05 TimeConversion
+
 UE06 MinMaxSumOf4Of5
+
 UE07 Noten
+
 UE08 OneMonthCalender
+
 UE09 LoopStatistic
+
 UE10 Platzierung
+
 UE11 TimeCalculations
+
 UE12 Praemie
+
 UE13 WorldLengthStatistic
+
 UE14 ApresSkiAdvanced
+
 UE15 CountWords
+
 UE16 ArrayWalker
+
 UE17 NextPermutation
+
 UE18 Palindrome
+
 UE19 Eratosthenes
+
 UE20 SmallestDifference
+
 UE21 LangtonsAnt
+
 UE22 Sorting
+
 UE23 Rotate
+
 UE24 SunsetView
+
 UE25 BillaProblem
